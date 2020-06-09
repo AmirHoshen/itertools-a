@@ -1,0 +1,8 @@
+//
+// Created by miros on 09/06/2020.
+//
+
+#ifndef ITERTOOLS_CFAR_A_MASTER_RANGE_HPP
+#define ITERTOOLS_CFAR_A_MASTER_RANGE_HPP
+
+#endif //ITERTOOLS_CFAR_A_MASTER_RANGE_HPP
